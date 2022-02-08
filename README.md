@@ -1,2 +1,0 @@
-# shohagh
-Friends Website files
